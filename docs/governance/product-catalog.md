@@ -4,6 +4,8 @@ O Product Registry da Factory será a fonte de verdade para: identificador imut�
 
 Produtos definidos: Produto 001 **Ideavelo for Coolify**, futuro repositório `internal-plugin-coolify`; Produto 002 **Ideavelo for GitHub**, futuro repositório `internal-plugin-github`. Esses repositórios ainda não foram provisionados por esta documentação.
 
-Candidatos sem aprovação de desenvolvimento: Proxmox, Plesk, Dokploy, TrueNAS, CapRover e outros. A inclusão no catálogo não equivale a deploy ou autorização de gasto.
+Product 003 **Ideavelo for Proxmox**, repository `internal-plugin-proxmox`, approved for development by the owner on 2026-11-13 (see `docs/products/003-proxmox.md`).
+
+Candidatos sem aprovação de desenvolvimento: Plesk, Dokploy, TrueNAS, CapRover e outros. A inclusão no catálogo não equivale a deploy ou autorização de gasto.
 
 O Registry deve suportar múltiplos provedores de infraestrutura e não depender de Coolify como catálogo.

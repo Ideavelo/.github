@@ -15,7 +15,7 @@ Exemplos: `internal-plugin-coolify`, `internal-plugin-github`, `internal-platfor
 
 ## Exceções e legado
 
-`factory`, `.github`, `website` e `coolify-mcp-gateway` são repositórios existentes; não renomear automaticamente. `internal-plugin-proxmox`, `internal-plugin-plesk` e `internal-plugin-dokploy` são apenas candidatos, não projetos aprovados.
+`factory`, `.github`, `website` e `coolify-mcp-gateway` são repositórios existentes; não renomear automaticamente. `internal-plugin-plesk` e `internal-plugin-dokploy` são apenas candidatos, não projetos aprovados. `internal-plugin-proxmox` was approved on 2026-11-13 (Product 003).
 
 ## Metadados
 
